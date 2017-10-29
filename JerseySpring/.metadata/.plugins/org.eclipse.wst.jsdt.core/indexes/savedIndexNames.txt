@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\workspace\JerseySpring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2164184634.index
+21366301.index
+1621789837.index
+1455996023.index
+3160300669.index
+22071146.index

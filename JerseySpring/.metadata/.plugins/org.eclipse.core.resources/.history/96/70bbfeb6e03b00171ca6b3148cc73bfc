@@ -1,0 +1,13 @@
+package com.example.spring.transaction.impl;
+
+import com.example.spring.transaction.TransactionBO;
+
+public class TransactionBOImpl implements TransactionBO{
+
+	@Override
+	public String save() {
+		// TODO Auto-generated method stub
+		return "Jersey + Spring example";
+	}
+
+}
